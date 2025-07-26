@@ -65,7 +65,14 @@ A high-performance contact book application that combines the efficiency of Trie
 
 ## 📂 Project Structure
 
-<pre> ```plaintext contact-book-trie-bst/ ├── contact_book.py # Core logic with Trie + BST implementation ├── contact_book_gui.py # Tkinter GUI application ├── contacts.json # Auto-generated contacts database ├── README.md # This file └── requirements.txt # Python dependencies ``` </pre>
+```plaintext
+contact-book-trie-bst/
+├── contact_book.py        # Core logic with Trie + BST implementation  
+├── contact_book_gui.py    # Tkinter GUI application  
+├── contacts.json          # Auto-generated contacts database  
+├── README.md              # This file  
+└── requirements.txt       # Python dependencies  
+```
 
 
 ---
