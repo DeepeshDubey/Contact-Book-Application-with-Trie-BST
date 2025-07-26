@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
-
+---
 A high-performance contact book application that combines the efficiency of Trie data structure for prefix searches with Binary Search Tree (BST) for sorted storage. Features a modern Tkinter GUI with all CRUD operations.
 
 ## 🌟 Features
@@ -16,7 +16,7 @@ A high-performance contact book application that combines the efficiency of Trie
   - Delete: Remove contacts
 - **Persistent Storage**: Automatically saves to JSON file
 - **Responsive GUI**: Intuitive Tkinter interface
-
+---
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3.6+
@@ -25,7 +25,7 @@ A high-performance contact book application that combines the efficiency of Trie
   - Binary Search Tree for sorted storage
 - **GUI**: Tkinter
 - **Persistence**: JSON file storage
-
+---
 
 ## 🖥️ Usage
 
@@ -65,12 +65,7 @@ A high-performance contact book application that combines the efficiency of Trie
 
 ## 📂 Project Structure
 
-contact-book-trie-bst/
-├── contact_book.py # Core logic with Trie + BST implementation
-├── contact_book_gui.py # Tkinter GUI application
-├── contacts.json # Auto-generated contacts database
-├── README.md # This file
-└── requirements.txt # Python dependencies
+<pre> ```plaintext contact-book-trie-bst/ ├── contact_book.py # Core logic with Trie + BST implementation ├── contact_book_gui.py # Tkinter GUI application ├── contacts.json # Auto-generated contacts database ├── README.md # This file └── requirements.txt # Python dependencies ``` </pre>
 
 
 ---
